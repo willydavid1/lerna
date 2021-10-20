@@ -1,3 +1,10 @@
 import React from "react";
-const Button = ({ children }) => <button>{children}</button>;
+import styled from "styled-components";
+
+const ButtonStyled = styled.button`
+  background-color: green;
+`;
+
+const Button = ({ children }) => <ButtonStyled>{children}</ButtonStyled>;
+
 export { Button };

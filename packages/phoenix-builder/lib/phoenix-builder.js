@@ -15,7 +15,7 @@ const fileName = name.replace("@willytest/", "");
 // see below for details on the options
 const inputOptions = {
   input: inputPath,
-  external: ["react"],
+  external: ["react", "styled-components"],
   plugins: [
     resolve(),
     babel({

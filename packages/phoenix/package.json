@@ -1,6 +1,6 @@
 {
   "name": "@willytest/phoenix",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "willy <willydaconceicao@habi.co>",
@@ -21,11 +21,11 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@willytest/phoenix-button": "^0.0.0",
-    "@willytest/phoenix-text": "^0.0.0"
+    "@willytest/phoenix-button": "^1.0.0",
+    "@willytest/phoenix-text": "^1.0.0"
   },
   "devDependencies": {
-    "@willytest/phoenix-builder": "^0.0.0"
+    "@willytest/phoenix-builder": "^1.0.0"
   },
   "main": "dist/phoenix.cjs.js",
   "module": "dist/phoenix.esm.js",

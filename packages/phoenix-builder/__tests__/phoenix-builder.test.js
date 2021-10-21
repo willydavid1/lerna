@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const phoenixBuilder = require('..');
+const phoenixBuilder = require("..");
 
-describe('@willytest/phoenix-builder', () => {
-    it('needs tests');
+describe("@habitech/phoenix-builder", () => {
+  it("needs tests");
 });

@@ -1,11 +1,11 @@
-# `@willytest/phoenix-button`
+# `@habitech/phoenix-button`
 
 > TODO: description
 
 ## Usage
 
 ```
-const phoenixButton = require('@willytest/phoenix-button');
+const phoenixButton = require('@habitech/phoenix-button');
 
 // TODO: DEMONSTRATE API
 ```
